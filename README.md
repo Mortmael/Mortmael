@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-Junior C# programmer.
+C#
